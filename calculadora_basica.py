@@ -21,7 +21,7 @@ elif op == 'd':
     print(f"{d}")
 
 else:
-    print(f"pipopipo errorcillo")
+    print("pipopipo errorcillo")
 
 
 
